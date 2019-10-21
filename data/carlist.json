@@ -1,0 +1,28 @@
+{
+  "carlist": [
+    {
+      "img": "./data/images/m1.jpg",
+      "num": "4",
+      "newprice": "29.3",
+      "oldprice": "59.8",
+      "cont": "百年百部中国儿童文学经典书系-一百个中国孩子的梦",
+      "cur": false
+    },
+    {
+      "img": "./data/images/m2.jpg",
+      "num": "2",
+      "newprice": "23.1",
+      "oldprice": "50",
+      "cont": "拾掇70年的片段——我和我的祖国",
+      "cur": false
+    },
+    {
+      "img": "./data/images/m3.jpg",
+      "num": "2",
+      "newprice": "34",
+      "oldprice": "87",
+      "cont": "拾掇70年的片段——我和我的祖国",
+      "cur":false
+    }
+  ]
+}
